@@ -8,6 +8,34 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MyApplication5" />
+        android:theme="@style/Theme.MyApplication5">
+        <activity
+            android:name=".BtsActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
 
 </manifest>
